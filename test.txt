@@ -1,0 +1,1246 @@
+  <!DOCTYPE html><html lang="vi" data-cast-api-enabled="true"><head><style name="www-roboto" >@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v18/OLffGBTaF0XFOW1gnuHF0e0Gn9WBV1dW7jxTbD8C7Tw.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v18/mbmhprMH69Zi6eEPBYVFhaCWcynf_cDxXwCLxiixG1c.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v18/XXpXIhSJd2Fy9i3t2hvhGg.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v18/qmxS4_Fg1rKbWyCorfIQ8vesZW2xOQ-xsNqO47m55DA.ttf)format('truetype');}</style><script name="www-roboto" >if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "T");document.fonts.load("500 10pt Roboto", "T");}</script><script >var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},info: {}});},now: window.performance && window.performance.timing &&window.performance.now ? function() {return window.performance.timing.navigationStart + window.performance.now();} : function() {return (new Date()).getTime();},tick: function(l, t, n) {ticks = ytcsi.gt(n).tick;var v = t || ytcsi.now();if (ticks[l]) {ticks['_' + l] = (ticks['_' + l] || [ticks[l]]);ticks['_' + l].push(v);}ticks[l] = v;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.setStart('dhs', w.performance ? w.performance.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = d.webkitVisibilityState ? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}var slt = function(el, t) {setTimeout(function() {var n = ytcsi.now();el.loadTime = n;if (el.slt) {el.slt();}}, t);};w.__ytRIL = function(el) {if (!el.getAttribute('data-thumb')) {if (w.requestAnimationFrame) {w.requestAnimationFrame(function() {slt(el, 0);});} else {slt(el, 16);}}};})(window, document);</script><script >var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}};</script>  <script>ytcfg.set("ROOT_VE_TYPE", 4724);ytcfg.set("EVENT_ID", "ygcpWouSJYWm4gKS0oWgDQ");</script>
+  
+  
+
+
+
+
+  <script>
+        (function(){var b={a:"content-snap-width-1",b:"content-snap-width-2",c:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}
+function h(a){var c=f().concat(["guide-pinned","show-guide"]),e=c.length,g=[];a.replace(/\S+/g,function(a){for(var d=0;d<e;d++)if(a==c[d])return;g.push(a)});
+return g}
+;function k(a,c,e){var g=document.getElementsByTagName("html")[0],d=h(g.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(d.push("guide-pinned"),c&&d.push("show-guide"));e&&(e=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(e-=230),d.push(1262<=e?"content-snap-width-3":1056<=e?"content-snap-width-2":"content-snap-width-1"));g.className=d.join(" ")}
+var l=["yt","www","masthead","sizing","runBeforeBodyIsReady"],m=this;l[0]in m||!m.execScript||m.execScript("var "+l[0]);for(var n;l.length&&(n=l.shift());)l.length||void 0===k?m[n]&&m[n]!==Object.prototype[n]?m=m[n]:m=m[n]={}:m[n]=k;}).call(this);
+
+      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+
+    yt.www.masthead.sizing.runBeforeBodyIsReady(true,true,false);
+  </script>
+
+      <script src="/yts/jsbin/scheduler-vflm73g70/scheduler.js" type="text/javascript" name="scheduler/scheduler" ></script>
+
+
+  
+  <link rel="stylesheet" href="/yts/cssbin/www-core-vflTmfOwg.css" name="www-core">
+  <link rel="stylesheet" href="/yts/cssbin/www-spacecast-vflvydAHe.css" name="www-spacecast">
+      <link rel="stylesheet" href="/yts/cssbin/player-vflRI6WKV/www-player.css" name="player/www-player">
+
+  <link rel="stylesheet" href="/yts/cssbin/www-pageframe-vflSh8APE.css" name="www-pageframe">
+  <link rel="stylesheet" href="/yts/cssbin/www-guide-vflK1Wzx8.css" name="www-guide">
+
+    
+<title>karaoke anh cu di di - YouTube</title><link rel="alternate" media="handheld" href="https://m.youtube.com/results?search_query=karaoke+anh+cu+di+di"><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.youtube.com/results?search_query=karaoke+anh+cu+di+di"><meta name="description" content="Thưởng thức video và âm nhạc bạn yêu thích, tải nội dung gốc lên và chia sẻ nội dung đó với bạn bè và gia đình cũng như mọi người trên YouTube."><meta name="keywords" content="video, chia sẻ, điện thoại chụp ảnh, điện thoại video, miễn phí, tải lên"><link rel="manifest" href="/manifest.json"><link rel="search" type="application/opensearchdescription+xml" href="https://www.youtube.com/opensearch?locale=vi_VN" title="Tìm kiếm Video trên YouTube"><link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico" type="image/x-icon">     <link rel="icon" href="/yts/img/favicon_32-vflOogEID.png" sizes="32x32"><link rel="icon" href="/yts/img/favicon_48-vflVjB_Qk.png" sizes="48x48"><link rel="icon" href="/yts/img/favicon_96-vflW9Ec0w.png" sizes="96x96"><link rel="icon" href="/yts/img/favicon_144-vfliLAfaB.png" sizes="144x144"><meta name="theme-color" content="#ff0000">    <link rel="stylesheet" href="/yts/cssbin/www-results-vflBqCzHT.css" name="www-results">
+
+    <link rel="stylesheet" href="/yts/cssbin/www-home-c4-vflYamrl4.css" name="www-home-c4">
+
+<style>.exp-invert-logo .hats-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_mini_gray-vflfanGkh.png);width: 65px;height: 15px;}.exp-invert-logo #header:before,.exp-invert-logo .ypc-join-family-header .logo,.exp-invert-logo #footer-logo .footer-logo-icon,.exp-invert-logo #yt-masthead #logo-container .logo,.exp-invert-logo #masthead #logo-container,.exp-invert-logo .admin-masthead-logo a,.exp-invert-logo #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small-vflHpzGZm.png);width: 100px;height: 30px;}.exp-invert-logo.inverted-hdpi #header:before,.exp-invert-logo.inverted-hdpi .ypc-join-family-header .logo,.exp-invert-logo.inverted-hdpi #footer-logo .footer-logo-icon,.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo,.exp-invert-logo.inverted-hdpi #masthead #logo-container,.exp-invert-logo.inverted-hdpi .admin-masthead-logo a,.exp-invert-logo.inverted-hdpi #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png);background-size: 100px 30px;width: 100px;height: 30px;}.exp-invert-logo.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);width: 40px;height: 28px;}@media screen and (max-width: 656px) {.exp-invert-logo #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}@media only screen and (min-width: 0px) and (max-width: 498px),only screen and (min-width: 499px) and (max-width: 704px) {.exp-invert-logo.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}.exp-invert-logo #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red-vflZxcSR1.png);width: 132px;height: 30px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png);background-size: 132px 30px;width: 132px;height: 30px;}.exp-invert-logo .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red-vflovGTdz.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_2x-vflqMdgEM.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover-vflgV4Gv0.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo.inverted-hdpi .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover_2x-vflYjZHvf.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo li.guide-section h3,.exp-invert-logo li.guide-section h3 a {color: #f00;}.exp-invert-logo a.yt-uix-button-epic-nav-item:hover,.exp-invert-logo a.yt-uix-button-epic-nav-item.selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item.selected,.exp-invert-logo button.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item:hover,.exp-invert-logo .epic-nav-item.selected,.exp-invert-logo .epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item-heading,.exp-invert-logo .yt-gb-shelf-item-thumbtab.yt-gb-selected-shelf-tab::before {border-color: #f00;}.exp-invert-logo .resume-playback-progress-bar,.exp-invert-logo .yt-uix-button-subscribe-branded,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled],.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:hover,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:active,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:focus,.exp-invert-logo .sb-notif-on .yt-uix-button-content,.exp-invert-logo .guide-item.guide-item-selected,.exp-invert-logo .guide-item.guide-item-selected:hover,.exp-invert-logo .guide-item.guide-item-selected .yt-deemphasized-text,.exp-invert-logo .guide-item.guide-item-selected:hover .yt-deemphasized-text {background-color: #f00;}.exp-invert-logo .yt-uix-button-subscribe-branded:hover {background-color: #d90a17;}.exp-invert-logo .yt-uix-button-subscribe-branded.yt-is-buffered,.exp-invert-logo .yt-uix-button-subscribe-branded:active,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-active,.exp-invert-logo .yt-uix-button-subscribed-branded.external,.exp-invert-logo .yt-uix-button-subscribed-branded.external[disabled],.exp-invert-logo .yt-uix-button-subscribed-branded.external:active,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-active {background-color: #a60812;}</style><style>.exp-invert-logo #header:before, .exp-invert-logo .ypc-join-family-header .logo, .exp-invert-logo #footer-logo .footer-logo-icon, .exp-invert-logo #yt-masthead #logo-container .logo, .exp-invert-logo #masthead #logo-container, .exp-invert-logo .admin-masthead-logo a, .exp-invert-logo #yt-sidebar-styleguide-logo #logo { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png); background-size: 100px 30px; } .exp-invert-logo #yt-masthead #logo-container .logo-red { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png); background-size: 132px 30px; } @media only screen and (min-width: 0px) and (max-width: 498px), only screen and (min-width: 499px) and (max-width: 704px) { .exp-invert-logo.exp-responsive #yt-masthead #logo-container { background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png); background-size: 40px 28px; } } .guide-sort-container {display: none}</style></head>
+    <body dir="ltr" id="body" class="  visibility-logging-enabled  ltr    exp-invert-logo exp-mouseover-img exp-responsive exp-scrollable-guide exp-search-big-thumbs   site-center-aligned site-as-giant-card guide-pinning-enabled appbar-hidden   not-nirvana-dogfood    delayed-frame-styles-not-in  " data-spf-name="other">
+
+  <div id="early-body"></div>
+  <div id="body-container"><div id="a11y-announcements-container" role="alert"><div id="a11y-announcements-message"></div></div><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  <div id="ticker-content">
+        
+
+  </div>
+  <div id="yt-masthead-container" class="clearfix yt-base-gutter">  <button id="a11y-skip-nav" class="skip-nav" data-target-id="main" tabindex="3">
+Bỏ qua điều hướng
+  </button>
+<div id="yt-masthead"><div class="yt-masthead-logo-container ">  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-label="Hướng dẫn" aria-controls="appbar-guide-menu"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span></button>
+  <div id="appbar-main-guide-notification-container"></div>
+<span id="yt-masthead-logo-fragment"><a href="/" class="masthead-logo-renderer yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAUQsV4iEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ"  id="logo-container" title="Trang chủ YouTube">  <span class="logo masthead-logo-renderer-logo yt-sprite" title="Trang chủ YouTube"></span>
+<span class="content-region">VN</span></a></span></div><div id="yt-masthead-signin"><a  href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-opacity yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip yt-uix-button-empty" data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=mhsb" id="upload-btn" title="Tải lên"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-material-upload yt-sprite"></span></span></a><div class="signin-container "><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" role="link" href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=vi&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26next%3D%252Fresults%253Fsearch_query%253Dkaraoke%252Banh%252Bcu%252Bdi%252Bdi%26feature%3Dsign_in_button%26hl%3Dvi"><span class="yt-uix-button-content">Đăng nhập</span></button></div></div><div id="yt-masthead-content"><form id="masthead-search" class="  search-form consolidated-form  vve-check" action="/results" onsubmit="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;" data-clicktracking="CAEQ7VAiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CAEQ7VAiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; document.getElementById(&#39;masthead-search&#39;).submit(); return false;;return true;" id="search-btn" tabindex="2" dir="ltr"><span class="yt-uix-button-content">Tìm kiếm</span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><input id="masthead-search-term" autocomplete="off"  onkeydown="if (!this.value &amp;&amp; (event.keyCode == 40 || event.keyCode == 32 || event.keyCode == 34)) {this.onkeydown = null; this.blur();}" class="search-term masthead-search-renderer-input yt-uix-form-input-bidi" name="search_query" value="karaoke anh cu di di" type="text" tabindex="1" placeholder="Tìm kiếm" title="Tìm kiếm" aria-label="Tìm kiếm"></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  search  branded-page-v2-secondary-column-wide  no-flex clearfix"><div id="guide" class="yt-scrollbar">      <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor yt-uix-scroller yt-uix-tdl" role="navigation">
+    <div id="guide-container">
+        <div class="guide-module-content yt-scrollbar">
+    <ul class="guide-toplevel">
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="what_to_watch-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/"
+    title="Trang chủ"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-system&amp;ved=CFsQtSwYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="what_to_watch" data-serialized-endpoint="0qDduQEREg9GRXdoYXRfdG9fd2F0Y2g%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-what-to-watch-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Trang chủ
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="trending-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/feed/trending"
+    title="Thịnh hành"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-trending&amp;ved=CFwQtSwYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="trending" data-serialized-endpoint="0qDduQEMEgpGRXRyZW5kaW5n"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-trending-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Thịnh hành
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="history-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/feed/history"
+    title="Lịch sử"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-personal&amp;ved=CF0QtSwYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="history" data-serialized-endpoint="0qDduQELEglGRWhpc3Rvcnk%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-history-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Lịch sử
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+          <h3>
+      Hay nhất trên YouTube
+    </h3>
+
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC-9-kyTW8ZkZNDHQJ6FgpwQ-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+    title="Âm nhạc"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-channel&amp;ved=CF8QtSwYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="UC-9-kyTW8ZkZNDHQJ6FgpwQ" data-serialized-endpoint="0qDduQEaEhhVQy05LWt5VFc4WmtaTkRIUUo2Rmdwd1E%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img alt="" width="20" data-ytimg="1" height="20" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//i.ytimg.com/i/-9-kyTW8ZkZNDHQJ6FgpwQ/1.jpg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Âm nhạc
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCEgdi0XIXXZ-qJOFPf4JSKw-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"
+    title="Thể thao"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-channel&amp;ved=CGAQtSwYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="UCEgdi0XIXXZ-qJOFPf4JSKw" data-serialized-endpoint="0qDduQEaEhhVQ0VnZGkwWElYWFotcUpPRlBmNEpTS3c%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img alt="" width="20" data-ytimg="1" height="20" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//i.ytimg.com/i/Egdi0XIXXZ-qJOFPf4JSKw/1.jpg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Thể thao
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCOpNcN46UbXVtpKMrmU4Abg-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCOpNcN46UbXVtpKMrmU4Abg"
+    title="Trò chơi"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-channel&amp;ved=CGEQtSwYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="UCOpNcN46UbXVtpKMrmU4Abg" data-serialized-endpoint="0qDduQEaEhhVQ09wTmNONDZVYlhWdHBLTXJtVTRBYmc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img alt="" width="20" data-ytimg="1" height="20" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//i.ytimg.com/i/OpNcN46UbXVtpKMrmU4Abg/1.jpg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Trò chơi
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCYfdidRxbB8Qhf0Nx7ioOYw-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCYfdidRxbB8Qhf0Nx7ioOYw"
+    title="Tin tức"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-channel&amp;ved=CGIQtSwYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="UCYfdidRxbB8Qhf0Nx7ioOYw" data-serialized-endpoint="0qDduQEaEhhVQ1lmZGlkUnhiQjhRaGYwTng3aW9PWXc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img alt="" width="20" data-ytimg="1" height="20" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//i.ytimg.com/i/YfdidRxbB8Qhf0Nx7ioOYw/1.jpg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Tin tức
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC4R8DWoMoI7CAwX8_LjQHig-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UC4R8DWoMoI7CAwX8_LjQHig"
+    title="Trực tiếp"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-channel&amp;ved=CGMQtSwYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="UC4R8DWoMoI7CAwX8_LjQHig" data-serialized-endpoint="0qDduQEaEhhVQzRSOERXb01vSTdDQXdYOF9MalFIaWc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img alt="" width="20" data-ytimg="1" height="20" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//i.ytimg.com/i/4R8DWoMoI7CAwX8_LjQHig/1.jpg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Trực tiếp
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCzuqhhs6NWbgTzMuM09WKDQ-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCzuqhhs6NWbgTzMuM09WKDQ"
+    title="Video 360°"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-channel&amp;ved=CGQQtSwYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="UCzuqhhs6NWbgTzMuM09WKDQ" data-serialized-endpoint="0qDduQEaEhhVQ3p1cWhoczZOV2JnVHpNdU0wOVdLRFE%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img alt="" width="20" data-ytimg="1" height="20" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//i.ytimg.com/i/zuqhhs6NWbgTzMuM09WKDQ/1.jpg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Video 360°
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="guide_builder-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/feed/guide_builder"
+    title="Xem qua kênh"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-manage&amp;ved=CGYQtSwYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" data-visibility-tracking="" data-external-id="guide_builder" data-serialized-endpoint="0qDduQEREg9GRWd1aWRlX2J1aWxkZXI%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-builder-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Xem qua kênh
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section guide-header signup-promo">
+    <p>
+      Hãy đăng nhập ngay bây giờ để xem kênh của bạn và các đề xuất!
+    </p>
+    <div id="guide-builder-promo-buttons" class="signed-out clearfix">
+      <a  href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=vi&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26next%3D%252Fresults%253Fsearch_query%253Dkaraoke%252Banh%252Bcu%252Bdi%252Bdi%26feature%3Dsign_in_promo%26hl%3Dvi" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ"><span class="yt-uix-button-content">Đăng nhập</span></a>
+    </div>
+  </li>
+
+    </ul>
+  </div>
+
+    </div>
+  </div>
+  <div id="appbar-guide-notifications" class="hid">
+        <div id="appbar-guide-notification-watch-later-video-added">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã thêm vào Xem sau</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-watch-later-video-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Xóa khỏi danh sách Xem sau</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-subscription">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã thêm đăng ký</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-unsubscription">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã xóa đăng ký</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-like">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã lưu vào Danh sách phát</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-unlike">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã xóa khỏi Danh sách phát</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-video-added">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã thêm vào danh sách phát</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-video-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã xóa khỏi danh sách phát</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-like">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã thêm vào Video đã thích</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-unlike">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã xóa khỏi Video đã thích</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-set">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Bạn sẽ được nhắc về sự kiện này</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Đã xóa nhắc nhở sự kiện</span></span></div>
+    -->
+  </div>
+
+
+  </div>
+  <div id="appbar-guide-item-templates" class="hid">
+        <div id="appbar-guide-item-template-playlist">
+      <!--
+        
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-playlists" data-visibility-tracking="" data-external-id="__ID__" data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-playlists-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Đã lưu vào Danh sách phát">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-mix">
+      <!--
+        
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-playlists" data-visibility-tracking="" data-external-id="__ID__" data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-mix-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Đã lưu vào Danh sách phát">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-channel">
+      <!--
+        
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;feature=g-channel" data-visibility-tracking="" data-external-id="__ID__" data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img alt="" width="20" data-ytimg="1" height="20" src="__THUMBNAIL_URL__" aria-hidden="true" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Đã thêm đăng ký">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+
+  </div>
+
+</div><div class="alerts-wrapper"><div id="alerts" class="content-alignment">    <div class="yt-alert yt-alert-default yt-alert-info  " id="yt-lang-alert-container">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message" tabindex="0">
+            Chọn ngôn ngữ của bạn.
+
+    </div>
+</div><div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Đóng" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Đóng</span></button></div><div class="yt-alert-panel ">  <div id="yt-lang-alert-content" class="clearfix">
+    <div id="default-language-message">
+      <div class="yt-lang-alert-controls">
+        <a href="//support.google.com/youtube/answer/1738660?hl=vi">Tìm hiểu thêm</a><br>
+          <a href="javascript:void(0)" onclick="yt.style.toggle('default-language-message', 'default-language-message-english'); return false;">View this message in English</a>
+      </div>
+Bạn đang xem YouTube bằng <strong>Tiếng Việt</strong>.
+Bạn có thể <a href="javascript:void(0)" onclick="yt.www.picker.displayLang();">thay đổi tuỳ chọn này bên dưới</a> .
+    </div>
+    <div id="default-language-message-english" class="hid">
+      <div class="yt-lang-alert-controls">
+        <a href="//support.google.com/youtube/answer/1738660?hl=en">Learn more</a><br>
+      </div>
+      You're viewing YouTube in <strong>Vietnamese</strong>.
+        You can <a href="javascript:void(0)" onclick="yt.www.picker.displayLang();">change this preference below</a>.
+    </div>
+  </div>
+</div></div>
+
+</div></div><div id="header">  
+</div><div id="player" class="  off-screen  " role="complementary"><div id="theater-background" class="player-height"></div>  <div id="player-mole-container">
+    <div id="player-unavailable" class="  hid  ">
+      
+    </div>
+
+    <div id="player-api" class="player-width player-height off-screen-target player-api" tabIndex="-1"></div>
+        <script >if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script >var ytplayer = ytplayer || {};ytplayer.config = {"sts":17501,"assets":{"css":"\/yts\/cssbin\/player-vflRI6WKV\/www-player.css","js":"\/yts\/jsbin\/player-vflvODUt0\/vi_VN\/base.js"},"attrs":{"id":"movie_player"},"min_version":"8.0.0","url":"","html5":true,"params":{"allowfullscreen":"true","allowscriptaccess":"always","bgcolor":"#000000"},"args":{"c":"WEB","apiary_host":"","player_error_log_fraction":"1.0","xhr_apiary_host":"youtubei.youtube.com","apiary_host_firstparty":"","host_language":"vi","enablejsapi":"1","external_play_video":"1","fexp":"23701213,23701940,23705485,23705739,23708904,23708906,23708910,23713711,23715460,23715612,9422596,9431754,9449243,9471239,9474594,9476327,9477629,9479827,9480475,9484237,9484344,9485000,9488038","innertube_api_version":"v1","gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.xyDspFFbPYQ.O\/m=__features__\/am=AAI\/rt=j\/d=1\/rs=AHpOoo9vuiyYzl-xmAxJd0moShp71zG1mw","cr":"VN","hl":"vi_VN","innertube_context_client_version":"1.20171206","cver":"1.20171206","autoplay":"0","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","fflags":"kids_enable_block_servlet=true\u0026yto_feature_hub_channel=false\u0026use_new_skip_icon=true\u0026fast_autonav_in_background=true\u0026player_external_control_on_classic_desktop=true\u0026html5_live_4k_more_buffer=true\u0026html5_request_sizing_multiplier=0.8\u0026html5_msi_error_fallback=true\u0026vss_dni_delayping=0\u0026html5_strip_emsg=true\u0026sponsors_whitelist_creator=true\u0026info_box_for_promotes_terrorism_reporting=true\u0026enable_red_carpet_p13n_shelves=true\u0026disable_trusted_ad_domains_player_check=true\u0026mobile_disable_ad_mob_on_home=true\u0026website_actions_throttle_percentage=1.0\u0026html5_default_ad_gain=0.0\u0026html5_repredict_interval_secs=0.0\u0026html5_serverside_call_server_on_biscotti_timeout=true\u0026html5_request_size_max_secs=31\u0026interaction_log_delayed_event_batch_size=200\u0026kids_enable_existing_marketing_rebrand=true\u0026html5_serverside_biscotti_id_wait_ms=1000\u0026html5_stale_dash_manifest_retry_factor=1.0\u0026enable_spherical_ps4=true\u0026spacecast_uniplayer_decorate_manifest=true\u0026disable_set_awesome_html5=true\u0026mpu_visible_threshold_count=2\u0026desktop_cleanup_companion_on_instream_begin=true\u0026dash_manifest_version=5\u0026html5_no_shadow_env_data_redux=true\u0026disable_new_pause_state3=true\u0026disable_reporting_html5_no_vast_ads_as_error=true\u0026tvhtml5_background_su=true\u0026html5_spherical_bicubic_mode=0\u0026kids_asset_theme=server_side_assets\u0026html5_maximum_readahead_seconds=0.0\u0026html5_error_reload_cooldown_ms=30000\u0026yto_enable_ytr_promo_refresh_assets=true\u0026html5_adunit_from_adformat=true\u0026disable_set_awesome_mweb=true\u0026mweb_cougar=true\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0\u0026html5_enable_mesh_projection=true\u0026html5_disable_move_pssh_to_moov=true\u0026legacy_autoplay_flag=true\u0026html5_elbow_tracking_tweaks=true\u0026report_promotes_terrorism_mobile_web=true\u0026enable_offer_restricts_for_watch_page_offers=true\u0026mweb_autonav_paddles=true\u0026html5_enable_embedded_player_visibility_signals=true\u0026html5_new_fallback=true\u0026html5_adjust_effective_request_size=true\u0026html5_deadzone_multiplier=1.0\u0026mweb_playsinline=true\u0026html5_platform_minimum_readahead_seconds=0.0\u0026polymer_report_missing_web_navigation_endpoint=false\u0026enable_prefetch_for_postrolls=true\u0026mysubs_highlight_shelf_counterfactual=false\u0026android_native_live_enablement=true\u0026kids_show_rebrand=true\u0026playready_first_play_expiration=-1\u0026html5_restrict_streaming_xhr_on_sqless_requests=true\u0026html5_allowable_liveness_drift_chunks=2\u0026yto_enable_unlimited_landing_page_yto_features=true\u0026html5_no_shadow_env_data=false\u0026use_new_style=true\u0026chrome_promo_enabled=true\u0026ad_video_end_renderer_duration_milliseconds=7000\u0026lugash_header_warmup=true\u0026html5_preload_size_excludes_metadata=true\u0026html5_disable_audio_slicing=true\u0026html5_max_buffer_health_for_downgrade=15\u0026midroll_notify_time_seconds=5\u0026html5_fludd_suspend=true\u0026html5_dom_pause=true\u0026html5_composite_stall=true\u0026kids_mqb_use_confirmed_safe_videos_only=false\u0026html5_new_peg_to_live_v2=true\u0026html5_aspect_from_adaptive_format=true\u0026enable_local_channel=true\u0026autoplay_time=8000\u0026enable_live_state_auth=true\u0026html5_reselect_bandwidth_factor=3.0\u0026html5_enable_ms_playready_hd=true\u0026html5_live_disable_dg_pacing=true\u0026html5_disable_non_contiguous=true\u0026variable_load_timeout_ms=0\u0026live_chat_v1_turndown=true\u0026html5_variability_full_discount_thresh=3.0\u0026show_thumbnail_behind_ypc_offer_module=true\u0026html5_new_e2e_latency_tracking=true\u0026lightweight_watch_video_swf=true\u0026html5_subsegment_readahead_timeout_secs=2.0\u0026lock_fullscreen=false\u0026live_chunk_readahead=3\u0026html5_disable_webgl_antialias=true\u0026html5_clearance_fix=true\u0026segment_volume_reporting=true\u0026android_buy_bucket_buy_flows=true\u0026html5_post_interrupt_readahead=20\u0026live_readahead_seconds_multiplier=0.8\u0026html5_disable_urgent_upgrade_for_quality=true\u0026html5_break_deadlocks=true\u0026html5_dispose_on_clear_killswitch=true\u0026html5_player_autonav_logging=true\u0026disable_search_mpu=true\u0026html5_min_readbehind_cap_secs=0\u0026web_player_api_logging_fraction=0.01\u0026html5_minimum_readahead_seconds=0.0\u0026ad_duration_threshold_for_showing_endcap_seconds=15\u0026stop_using_ima_sdk_gpt_request_activity=true\u0026limit_of_rebuffering_event_on_html5=1000\u0026web_player_tabindex_killswitch=true\u0026use_html5_player_event_timeout=true\u0026www_for_videostats=true\u0026html5_live_abr_repredict_fraction=0.0\u0026html5_report_conn=true\u0026html5_ultra_low_latency_streaming_responses=true\u0026html5_hopeless_mode_request_size_secs=15\u0026mweb_pu_android_chrome_54_above=true\u0026html5_ad_no_buffer_abort_after_skippable=true\u0026yt_unlimited_pts_skip_ads_promo_desktop_always=true\u0026report_promotes_terrorism_polymer=true\u0026mweb_muted_autoplay=true\u0026mweb_muted_autoplay_animation=shrink\u0026use_push_for_desktop_live_chat=true\u0026fixed_padding_skip_button=true\u0026html5_manifestless_no_redundant_seek_to_head=true\u0026enable_plus_page_pts=true\u0026html5_min_readbehind_secs=0\u0026dynamic_ad_break_pause_threshold_sec=0\u0026enable_playlist_multi_season=true\u0026signed_out_notifications_inbox=true\u0026player_destroy_old_version=true\u0026html5_get_video_info_timeout_ms=0\u0026html5_stop_video_in_cancel_playback=true\u0026report_promotes_terrorism_android=true\u0026enable_bulleit_lidar_integration=true\u0026html5_quality_cap_min_age_secs=0\u0026html5_pipeline_manifestless=true\u0026html5_connect_timeout_secs=7.0\u0026html5_sticky_disables_variability=true\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\u0026disable_mweb_iphone_ad_click_handling_functionality=true\u0026king_crimson_player=false\u0026enable_ccs_buy_flow_for_chirp=true\u0026mweb_autonav=true\u0026disable_captions_redirects=true\u0026web_player_edge_autohide_killswitch2=true\u0026doubleclick_gpt_retagging=true\u0026html5_pipeline_ultra_low_latency=true\u0026html5_ad_stats_bearer=true\u0026html5_min_upgrade_health=0\u0026king_crimson_player_redux=true\u0026html5_timeupdate_readystate_check=true\u0026html5_request_size_min_secs=0.0\u0026show_thumbnail_on_standard=true\u0026html5_min_startup_smooth_target=10.0\u0026kevlar_allow_multistep_video_init=true\u0026mweb_playsinline_webview=true\u0026html5_local_max_byterate_lookahead=15\u0026disable_max_adsense_channel_limit=true\u0026html5_progressive_signature_reload=true\u0026html5_variability_discount=0.5\u0026html5_pause_video_fix=true\u0026playready_on_borg=true\u0026html5_use_adaptive_live_readahead=true\u0026deprecate_get_video_metadata=true\u0026kids_enable_post_onboarding_red_flow=true\u0026html5_observe_live_start_seconds=true\u0026html5_throttle_burst_secs=15.0\u0026html5_stall_pctile=true\u0026max_resolution_for_white_noise=360\u0026html5_suspended_state=true\u0026mweb_cougar_big_controls=true\u0026html5_deferred_source_buffer_creation=true\u0026html5_variability_no_discount_thresh=1.0\u0026allow_live_autoplay=true\u0026ads_info_cards_excluded_from_drawer=true\u0026persist_text_on_preview_button=true\u0026html5_aux_pctile=true\u0026html5_subsegment_readahead_target_buffer_health_secs=0.5\u0026html5_min_buffer_to_resume=6\u0026html5_background_quality_cap=360\u0026fix_gpt_pos_params=true\u0026live_chat_use_new_default_filter_mode=true\u0026kids_eliminate_playlists_in_channels=true\u0026html5_license_constraint_delay=5000\u0026html5_subsegment_readahead_tail_margin_secs=0.2\u0026ios_disable_notification_preprompt=true\u0026html5_max_buffer_duration=0\u0026yto_enable_watch_offer_module=true\u0026sdk_wrapper_levels_allowed=0\u0026html5_mobile_perf_cap_240=true\u0026html5_always_enable_timeouts=true\u0026youtubei_for_web=true\u0026lugash_header_by_service=true\u0026html5_max_av_sync_drift=50\u0026kids_enable_server_side_assets=true\u0026website_actions_cta_redesign=true\u0026html5_sticky_ignore_capped=true\u0026ios_notifications_disabled_subs_tab_promoted_item_promo=true\u0026report_promotes_terrorism_desktop=true\u0026html5_background_cap_idle_secs=60\u0026html5_get_video_info_promiseajax=true\u0026embed_show_watchlater_login=true\u0026html5_throttle_rate=0.0\u0026web_player_disable_flash_playerproxy=true\u0026kids_enable_terms_servlet=true\u0026signed_out_notification_settings=true\u0026postroll_notify_time_seconds=5\u0026html5_disable_preserve_reference=true\u0026html5_min_secs_over_max_bytes=true\u0026sponsors_disable=true\u0026enable_finished_broadcast_reactr_sharing=false\u0026html5_env_data_update_app_only=true\u0026kids_enable_privacy_notice=true\u0026safari_enable_spherical=true\u0026html5_sticky_reduces_discount_by=0.0\u0026mweb_enable_skippables_on_iphone=true\u0026sdk_ad_prefetch_time_seconds=-1\u0026html5_live_pin_to_tail=true\u0026html5_max_readahead_bandwidth_cap=0\u0026html5_el_migration=true\u0026use_fast_fade_in_0s=true\u0026use_forced_linebreak_preskip_text=true\u0026html5_serverside_call_server_on_biscotti_error=true\u0026enable_gaming_new_logo=true\u0026enable_afv_div_reset_in_kevlar=true\u0026forced_brand_precap_duration_ms=2000\u0026html5_suspend_manifest_on_pause=true\u0026live_fresca_v2=true\u0026html5_subsegment_readahead_progress_timeout_fraction=0.8\u0026flex_theater_mode=true\u0026html5_live_abr_head_miss_fraction=0.0\u0026mweb_blacklist_progressive_chrome_mobile=true\u0026html5_video_tbd_min_kb=0\u0026show_countdown_on_bumper=true\u0026channel_about_page_gadgets=true\u0026html5_live_probe_primary_host=true\u0026html5_nnr_downgrade_count=4\u0026html5_manifestless_accurate_sliceinfo=true\u0026send_html5_api_stats_ads_abandon=true\u0026html5_max_headm_for_streaming_xhr=0\u0026sidebar_renderers=true\u0026uniplayer_dbp=true\u0026disable_indisplay_adunit_on_embedded=true\u0026dynamic_ad_break_seek_threshold_sec=0\u0026report_promotes_terrorism_ios=true\u0026player_unified_fullscreen_transitions=true\u0026html5_min_secs_between_format_selections=8.0\u0026html5_bandwidth_window_size=0\u0026html5_default_quality_cap=0\u0026disable_client_side_midroll_freq_capping=true\u0026ios_enable_mixin_accessibility_custom_actions=true\u0026web_embedded_player_service=true\u0026new_promo_page=true\u0026html5_suspend_loader=true","is_html5_mobile_device":false,"ssl":"1"}};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};</script>
+
+
+    <div id="watch-queue-mole" class="video-mole mole-collapsed hid"><div id="watch-queue" class="watch-playlist player-height"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Hàng đợi xem</h3><h3 class="tv-queue-title">Hàng đợi</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Hàng đợi xem</span><span class="tv-queue-title">Hàng đợi</span></div></div>  <span class="dark-overflow-action-menu">
+    
+    
+    <button onclick=";return false;" aria-label="Tác vụ cho hàng đợi" aria-expanded="false" aria-haspopup="true" type="button" class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid" role="menu" aria-haspopup="true"><li role="menuitem"><span data-action="remove-all" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" onclick=";return false;" >Xóa tất cả</span></li><li role="menuitem"><span data-action="disconnect" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" onclick=";return false;" >Ngắt kết nối</span></li></ul></button>
+  </span>
+  <div class="watch-queue-controls">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Video trước"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Phát"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" type="button" onclick=";return false;" title="Tạm dừng"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Video tiếp theo"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+  </div>
+</div><div class="autoplay-dismiss-bar fade-out"><span class="autoplay-dismiss-title-label">Video tiếp theo đang bắt đầu</span><span><button class="yt-uix-button yt-uix-button-size-default autoplay-dismiss-button yt-uix-tooltip" type="button" onclick=";return false;" title="dừng"><span class="yt-uix-button-content">dừng</span></button></span></div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><div class="yt-uix-scroller playlist-videos-list"><ol class="watch-queue-items-list" data-scroll-action="yt.www.watchqueue.loadThumbnails">  <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+Đang tải...
+    </span>
+  </p>
+</ol><div class="autoplay-control-container yt-uix-scroller-scroll-unit hid">  <div class="autoplay-control-bar">
+    <label class="autoplay-label" for=autoplay-toggle-id></label>
+    <label class="yt-uix-form-input-checkbox-container yt-uix-form-input-container yt-uix-form-input-paper-toggle-container  "><input class="yt-uix-form-input-checkbox" type="checkbox" id="autoplay-toggle-id"/><div class="yt-uix-form-input-paper-toggle-bg yt-uix-form-input-paper-toggle-bar"></div><div class="yt-uix-form-input-paper-toggle-bg yt-uix-form-input-paper-toggle-button"></div></label>
+  </div>
+</div><div class="up-next-item-container hid"></div></div></div></div>  <div class="hid">
+    <div id="watch-queue-title-msg">
+Hàng đợi xem
+    </div>
+
+    <div id="tv-queue-title-msg">Hàng đợi</div>
+
+    <div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+
+    <div id="watch-queue-loading-template">
+      <!--
+          <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+Đang tải...
+    </span>
+  </p>
+
+      -->
+    </div>
+  </div>
+</div></div>
+
+    <div id="player-playlist" class="  hid  ">
+      
+    </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div><div id="content" class="  content-alignment" role="main">
+
+
+  <div class="branded-page-v2-container branded-page-base-bold-titles branded-page-v2-container-flex-width" >
+
+    <div class="branded-page-v2-col-container">
+      <div class="branded-page-v2-col-container-inner">
+        <div class="branded-page-v2-primary-col">
+          <div class="   yt-card  clearfix">
+                <div class="branded-page-v2-primary-col-header-container branded-page-v2-primary-column-content">
+      
+    </div>
+  <div class="branded-page-v2-body branded-page-v2-primary-column-content" id="">
+        
+        <noscript>
+      <div class="yt-alert yt-alert-default yt-alert-error  ">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message" tabindex="0">
+            Xin chào, có vẻ như bạn đã tắt JavaScript. Hãy bật JavaScript để xem kết quả tìm kiếm một cách chính xác.
+    </div>
+</div><div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Đóng" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Đóng</span></button></div></div>
+
+  </noscript>
+
+
+  <div id="results">
+    
+
+
+      
+<ol id="section-list-393769" class="section-list">
+<li class="branded-page-v2-subnav-container branded-page-gutter-padding"><div class="search-header yt-uix-expander yt-uix-expander-collapsed"><div class="filter-top"><div class="filter-bar-container"><div class="filter-button-container"><button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default filter-button yt-uix-expander-head" type="button" onclick=";return false;" aria-label="Bộ lọc tìm kiếm" data-button-menu-id="some-nonexistent-menu" data-button-action="" data-button-toggle="true"><span class="yt-uix-button-content">Bộ lọc</span><span class="yt-uix-button-arrow yt-sprite"></span></button></div><div class="filter-crumb-spacer"></div><p class="num-results first-focus">Khoảng 84.000 kết quả</p></div></div><div id="filter-dropdown" class="yt-uix-expander-body"><div class="filter-col"><h4 class="filter-col-title">Ngày tải lên</h4><ul><li><a href="/results?sp=EgIIAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CC4Qk3UYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Giờ qua" aria-label="Tìm kiếm Giờ qua"><span class="filter-text filter-ghost">Giờ qua</span></a></li><li><a href="/results?sp=EgIIAg%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CC0Qk3UYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Hôm nay" aria-label="Tìm kiếm Hôm nay"><span class="filter-text filter-ghost">Hôm nay</span></a></li><li><a href="/results?sp=EgIIAw%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCwQk3UYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Tuần này" aria-label="Tìm kiếm Tuần này"><span class="filter-text filter-ghost">Tuần này</span></a></li><li><a href="/results?sp=EgIIBA%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCsQk3UYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Tháng này" aria-label="Tìm kiếm Tháng này"><span class="filter-text filter-ghost">Tháng này</span></a></li><li><a href="/results?sp=EgIIBQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCoQk3UYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Năm nay" aria-label="Tìm kiếm Năm nay"><span class="filter-text filter-ghost">Năm nay</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Loại</h4><ul><li><a href="/results?sp=EgIQAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCgQk3UYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Video" aria-label="Tìm kiếm Video"><span class="filter-text filter-ghost">Video</span></a></li><li><a href="/results?sp=EgIQAg%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCcQk3UYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Kênh" aria-label="Tìm kiếm Kênh"><span class="filter-text filter-ghost">Kênh</span></a></li><li><a href="/results?sp=EgIQAw%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCYQk3UYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Danh sách phát" aria-label="Tìm kiếm Danh sách phát"><span class="filter-text filter-ghost">Danh sách phát</span></a></li><li><a href="/results?sp=EgIQBA%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCUQk3UYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Phim" aria-label="Tìm kiếm Phim"><span class="filter-text filter-ghost">Phim</span></a></li><li><a href="/results?sp=EgIQBQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCQQk3UYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Hiển thị" aria-label="Tìm kiếm Hiển thị"><span class="filter-text filter-ghost">Hiển thị</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Thời lượng</h4><ul><li><a href="/results?sp=EgIYAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCIQk3UYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Ngắn (&lt; 4 phút)" aria-label="Tìm kiếm Ngắn (&lt; 4 phút)"><span class="filter-text filter-ghost">Ngắn (&lt; 4 phút)</span></a></li><li><a href="/results?sp=EgIYAg%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCEQk3UYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Dài (&gt; 20 phút)" aria-label="Tìm kiếm Dài (&gt; 20 phút)"><span class="filter-text filter-ghost">Dài (&gt; 20 phút)</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Video nổi bật</h4><ul><li><a href="/results?sp=EgJwAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CB8Qk3UYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm 4K" aria-label="Tìm kiếm 4K"><span class="filter-text filter-ghost">4K</span></a></li><li><a href="/results?sp=EgIgAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CB4Qk3UYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm HD" aria-label="Tìm kiếm HD"><span class="filter-text filter-ghost">HD</span></a></li><li><a href="/results?sp=EgPIAQE%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CB0Qk3UYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm HDR" aria-label="Tìm kiếm HDR"><span class="filter-text filter-ghost">HDR</span></a></li><li><a href="/results?sp=EgIoAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBwQk3UYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Phụ đề" aria-label="Tìm kiếm Phụ đề"><span class="filter-text filter-ghost">Phụ đề</span></a></li><li><a href="/results?sp=EgIwAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBsQk3UYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Giấy phép Creative Commons" aria-label="Tìm kiếm Giấy phép Creative Commons"><span class="filter-text filter-ghost">Giấy phép Creative Commons</span></a></li><li><a href="/results?sp=EgI4AQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBoQk3UYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm 3D" aria-label="Tìm kiếm 3D"><span class="filter-text filter-ghost">3D</span></a></li><li><a href="/results?sp=EgJAAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBkQk3UYBiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Trực tiếp" aria-label="Tìm kiếm Trực tiếp"><span class="filter-text filter-ghost">Trực tiếp</span></a></li><li><a href="/results?sp=EgJIAQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBgQk3UYByITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm Đã mua" aria-label="Tìm kiếm Đã mua"><span class="filter-text filter-ghost">Đã mua</span></a></li><li><a href="/results?sp=EgJ4AQ%253D%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBcQk3UYCCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tìm kiếm 360°" aria-label="Tìm kiếm 360°"><span class="filter-text filter-ghost">360°</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Sắp xếp theo</h4><ul><li><span class="filter filter-selected filter-sort"  title="Sắp xếp theo mức độ liên quan"><span class="filter-text"  aria-label="Sắp xếp theo mức độ liên quan">Mức độ liên quan</span></span></li><li><a href="/results?sp=CAI%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBQQk3UYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Sắp xếp theo ngày tải lên" aria-label="Sắp xếp theo ngày tải lên"><span class="filter-text filter-ghost">Ngày tải lên</span></a></li><li><a href="/results?sp=CAM%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBMQk3UYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Sắp xếp theo lượt xem" aria-label="Sắp xếp theo lượt xem"><span class="filter-text filter-ghost">Lượt xem</span></a></li><li><a href="/results?sp=CAE%253D&amp;search_query=karaoke+anh+cu+di+di" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBIQk3UYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Sắp xếp theo xếp hạng" aria-label="Sắp xếp theo xếp hạng"><span class="filter-text filter-ghost">Xếp hạng</span></a></li></ul></div></div></div></li>
+<li>
+<ol id="item-section-247832" class="item-section">
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="qty5hEqER2g" data-visibility-tracking="CFgQ3DAYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JEDojpHUxLCu7qoB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=qty5hEqER2g" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFgQ3DAYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="https://i.ytimg.com/vi/qty5hEqER2g/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCLGY4p8Q-joR-WPw07A_SyVv-Sxw" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+<span class="video-time" aria-hidden="true">4:07</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="qty5hEqER2g"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="qty5hEqER2g"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="qty5hEqER2g"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="qty5hEqER2g"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=qty5hEqER2g" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFgQ3DAYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Anh Cứ Đi Đi - Hari Won (Karaoke)" aria-describedby="description-id-96058" rel="spf-prefetch" dir="ltr">Anh Cứ Đi Đi - Hari Won (Karaoke)</a><span class="accessible-description" id="description-id-96058"> - Thời lượng: 4:07.</span></h3><div class="yt-lockup-byline "><a href="/channel/UC7C1bZAmKKhMJd71G61jNqA" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFgQ3DAYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >TUNGCHANG KARAOKE</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>18.986.687 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">TUNGCHANG <b>KARAOKE</b> ☆ ▷ Facebook: <a href="https://goo.gl/d44f3k" target="_blank" title="https://goo.gl/d44f3k" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/d44f3k</a> ▷ Google+: <a href="https://goo.gl/O7Sv5w" target="_blank" title="https://goo.gl/O7Sv5w" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/O7Sv5w</a> ▷ Subcribe: ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="sDCWdm67amc" data-visibility-tracking="CFcQ3DAYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JEDn1O315s6lmLAB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=sDCWdm67amc" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFcQ3DAYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="https://i.ytimg.com/vi/sDCWdm67amc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBZUb8-GlR93kwFjCJ2nA9i4Tu2_A" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+<span class="video-time" aria-hidden="true">4:11</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="sDCWdm67amc"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="sDCWdm67amc"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="sDCWdm67amc"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="sDCWdm67amc"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=sDCWdm67amc" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFcQ3DAYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="hari won anh cứ đi đi  karaoke có lời" aria-describedby="description-id-655880" rel="spf-prefetch" dir="ltr">hari won anh cứ đi đi  karaoke có lời</a><span class="accessible-description" id="description-id-655880"> - Thời lượng: 4:11.</span></h3><div class="yt-lockup-byline "><a href="/channel/UC6Qahg9znA0j1BLTqPM-mqg" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFcQ3DAYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >家原梁</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>9 tháng trước</li><li>116.785 lượt xem</li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="RH-yo192His" data-visibility-tracking="CFYQ3DAYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECrvNj7tdTsv0Q="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=RH-yo192His" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFYQ3DAYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="https://i.ytimg.com/vi/RH-yo192His/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAC-5wRyl0syDBfCv4JPbd3VLqzeQ" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+<span class="video-time" aria-hidden="true">6:06</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="RH-yo192His"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="RH-yo192His"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="RH-yo192His"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="RH-yo192His"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=RH-yo192His" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFYQ3DAYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="KARAOKE | Anh Cứ Đi Đi Remix | Hari Won" aria-describedby="description-id-362904" rel="spf-prefetch" dir="ltr">KARAOKE | Anh Cứ Đi Đi Remix | Hari Won</a><span class="accessible-description" id="description-id-362904"> - Thời lượng: 6:06.</span></h3><div class="yt-lockup-byline "><a href="/channel/UC6-iiAvpLENHaflu1FGEctA" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFYQ3DAYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >MOC Karaoke</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>117.760 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Tải ứng dụng hát <b>karaoke</b> Yokara: <a href="https://goo.gl/39C8wd" target="_blank" title="https://goo.gl/39C8wd" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/39C8wd</a> ♫ Đăng ký <b>Karaoke</b> Beat Chuẩn: <a href="https://goo.gl/hAVrya" target="_blank" title="https://goo.gl/hAVrya" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/hAVrya</a> ♫ Fanpage ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="F6NKyXKDqtc" data-visibility-tracking="CFUQ3DAYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JEDX1Y6Ul9nS0Rc="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=F6NKyXKDqtc" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFUQ3DAYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="https://i.ytimg.com/vi/F6NKyXKDqtc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDqVoVB15jJKou2H3ZfikqHQv7e2g" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+<span class="video-time" aria-hidden="true">4:02</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="F6NKyXKDqtc"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="F6NKyXKDqtc"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="F6NKyXKDqtc"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="F6NKyXKDqtc"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=F6NKyXKDqtc" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFUQ3DAYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Anh cứ đi đi karaoke tone nam chuẩn [fan made]" aria-describedby="description-id-307978" rel="spf-prefetch" dir="ltr">Anh cứ đi đi karaoke tone nam chuẩn [fan made]</a><span class="accessible-description" id="description-id-307978"> - Thời lượng: 4:02.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCOCzlCcZ2DQViKZBNGDAlKg" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFUQ3DAYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Cover kênh</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>205.329 lượt xem</li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="Y7nkqZvQcBQ" data-visibility-tracking="CFQQ3DAYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECU4MHemZX53GM="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=Y7nkqZvQcBQ" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFQQ3DAYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="https://i.ytimg.com/vi/Y7nkqZvQcBQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLA0zzOy64PLtcvM9J3uVbf6UZnCWg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+<span class="video-time" aria-hidden="true">4:32</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Y7nkqZvQcBQ"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Y7nkqZvQcBQ"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Y7nkqZvQcBQ"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="Y7nkqZvQcBQ"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=Y7nkqZvQcBQ" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFQQ3DAYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Hari Won [ Music Video ] - Anh Cứ Đi Đi" aria-describedby="description-id-311738" rel="spf-prefetch" dir="ltr">Hari Won [ Music Video ] - Anh Cứ Đi Đi</a><span class="accessible-description" id="description-id-311738"> - Thời lượng: 4:32.</span></h3><div class="yt-lockup-byline "><a href="/user/HariWonofficial" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFQQ3DAYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Hari Won</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Đã xác minh"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>32.781.951 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Hari Won - <b>Anh Cứ Đi Đi</b> (Official) Composer: Vuong Anh Tu Mix &amp; Master: Dang Phuong Director: Danny Do D.O.P: Danny ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="ZGv5NugLeyk" data-visibility-tracking="CFMQ3DAYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECp9q3A7qb-tWQ="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=ZGv5NugLeyk" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFMQ3DAYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="https://i.ytimg.com/vi/ZGv5NugLeyk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAO6XoZ_6ji6GpGoc22qQWZc3GPPg" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" >
+<span class="video-time" aria-hidden="true">4:04</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="ZGv5NugLeyk"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="ZGv5NugLeyk"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="ZGv5NugLeyk"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="ZGv5NugLeyk"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=ZGv5NugLeyk" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFMQ3DAYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="[Karaoke] Anh Cứ Đi Đi - Hari Won (Beat Phối Chuẩn) - andykaraoke.com | vpopkaraoke.com" aria-describedby="description-id-89986" rel="spf-prefetch" dir="ltr">[Karaoke] Anh Cứ Đi Đi - Hari Won (Beat Phối Chuẩn) - andykaraoke.com | vpopkaraoke.com</a><span class="accessible-description" id="description-id-89986"> - Thời lượng: 4:04.</span></h3><div class="yt-lockup-byline "><a href="/channel/UC9-LvGvrxUXRNX6OKNGul-A" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFMQ3DAYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Vpop Karaoke</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>114.001 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Bài hát: <b>Anh Cứ Đi Đi</b> Theo phong cách: Hari Won Download file MKV 2 kênh tiếng, beat chuẩn, Các bạn vào link này: ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="pBQWdqPTFJ4" data-visibility-tracking="CFIQ3DAYBiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECeqcye6s6FiqQB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=pBQWdqPTFJ4" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFIQ3DAYBiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/pBQWdqPTFJ4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLD1KVf2Jh29Mvh2sBmsxc_ZCodcvA" >
+<span class="video-time" aria-hidden="true">4:03</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="pBQWdqPTFJ4"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="pBQWdqPTFJ4"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="pBQWdqPTFJ4"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="pBQWdqPTFJ4"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=pBQWdqPTFJ4" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFIQ3DAYBiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="[Karaoke Beat] Anh Cứ Đi Đi - Hari Won | HOT VPOP" aria-describedby="description-id-112157" rel="spf-prefetch" dir="ltr">[Karaoke Beat] Anh Cứ Đi Đi - Hari Won | HOT VPOP</a><span class="accessible-description" id="description-id-112157"> - Thời lượng: 4:03.</span></h3><div class="yt-lockup-byline "><a href="/user/bongbebongkute" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFIQ3DAYBiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >HOT VPOP</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>742.896 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">[<b>KARAOKE</b>] <b>Anh Cứ Đi Đi</b> - Hari Won (Beat) - Nhạc Trẻ Mới Và Hay Nhất 2016 Link Mp3 (320kbps) : ... Đối với bất kỳ vấn đề Bản ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="aEasfjI1Dck" data-visibility-tracking="CFEQ3DAYByITCIufjZnJ99cCFQWTWAodEmkB1Cj0JEDJm9SR44-ro2g="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=aEasfjI1Dck" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFEQ3DAYByITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/aEasfjI1Dck/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDyCCTWrWDOZaLppAO0CTOAr02T_g" >
+<span class="video-time" aria-hidden="true">4:19</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="aEasfjI1Dck"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="aEasfjI1Dck"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="aEasfjI1Dck"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="aEasfjI1Dck"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=aEasfjI1Dck" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFEQ3DAYByITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Karaoke   Yêu Anh Cứ Để Em   Song Thư Beat Gốc" aria-describedby="description-id-885105" rel="spf-prefetch" dir="ltr">Karaoke   Yêu Anh Cứ Để Em   Song Thư Beat Gốc</a><span class="accessible-description" id="description-id-885105"> - Thời lượng: 4:19.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCs22_lT26ROjZP6qebssr4Q" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFEQ3DAYByITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Hiếu Minh</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>937.664 lượt xem</li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="Avr69BAJKQA" data-visibility-tracking="CFAQ3DAYCCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECA0qSAwd6-_QI="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=Avr69BAJKQA" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFAQ3DAYCCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/Avr69BAJKQA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDaK3-Ak2EQ_ckmq9fEZFojD6HVGQ" >
+<span class="video-time" aria-hidden="true">6:14</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Avr69BAJKQA"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Avr69BAJKQA"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Avr69BAJKQA"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="Avr69BAJKQA"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=Avr69BAJKQA" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFAQ3DAYCCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="[ Karaoke ] Em Cứ Đi Đi Cover - Trịnh Đình Quang (Beat) - ( Anh Cứ Đi Đi ) - Tone Nam" aria-describedby="description-id-287006" rel="spf-prefetch" dir="ltr">[ Karaoke ] Em Cứ Đi Đi Cover - Trịnh Đình Quang (Beat) - ( Anh Cứ Đi Đi ) - Tone Nam</a><span class="accessible-description" id="description-id-287006"> - Thời lượng: 6:14.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCoAhcU_VbG5fXQfwBKThjyQ" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFAQ3DAYCCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Trịnh Đình Quang Official</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>355.039 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">[ <b>Karaoke</b> ] Em Cứ Đi Đi Cover - Trịnh Đình Quang (Beat Official) - ( <b>Anh Cứ Đi Đi</b> ) - Tone Nam (Cấm Reup dưới mọi hình thức ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="TvmhodxLxxE" data-visibility-tracking="CE8Q3DAYCSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECRjq_inbTo_E4="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=TvmhodxLxxE" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE8Q3DAYCSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/TvmhodxLxxE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBFnGHNTCXUQ3r6TdVrd2OmOehiCg" >
+<span class="video-time" aria-hidden="true">1:56</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="TvmhodxLxxE"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="TvmhodxLxxE"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="TvmhodxLxxE"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="TvmhodxLxxE"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=TvmhodxLxxE" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE8Q3DAYCSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Hari Won - Anh Cứ Đi Đi (remix version) - Dance practice" aria-describedby="description-id-585903" rel="spf-prefetch" dir="ltr">Hari Won - Anh Cứ Đi Đi (remix version) - Dance practice</a><span class="accessible-description" id="description-id-585903"> - Thời lượng: 1:56.</span></h3><div class="yt-lockup-byline "><a href="/user/HariWonofficial" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CE8Q3DAYCSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Hari Won</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Đã xác minh"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>2.852.918 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Follow Hari Won: <a href="https://www.facebook.com/hariwonstar" target="_blank" title="https://www.facebook.com/hariwonstar" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://www.facebook.com/hariwonstar</a> <a href="https://www.instagram.com/wonhari" target="_blank" title="https://www.instagram.com/wonhari" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://www.instagram.com/wonhari</a>.</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="PM8eIFceFTU" data-visibility-tracking="CE4Q3DAYCiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JEC1qvi4hcTH5zw="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=PM8eIFceFTU" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE4Q3DAYCiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/PM8eIFceFTU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLD2qGubq2iXn5Noof6lftxGjxt-xQ" >
+<span class="video-time" aria-hidden="true">2:26</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="PM8eIFceFTU"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="PM8eIFceFTU"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="PM8eIFceFTU"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="PM8eIFceFTU"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=PM8eIFceFTU" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE4Q3DAYCiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Anh Cứ Đi Đi phiên bản Khởi My siêu dễ thương và kute" aria-describedby="description-id-600090" rel="spf-prefetch" dir="ltr">Anh Cứ Đi Đi phiên bản Khởi My siêu dễ thương và kute</a><span class="accessible-description" id="description-id-600090"> - Thời lượng: 2:26.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCQJ6lp0qxRyd6QgAFYqeG_w" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CE4Q3DAYCiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Vloggers Việt Nam</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Đã xác minh"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>72.641 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr"><b>Anh Cứ Đi Đi</b> của Hariwon được hát bởi Khởi My ----------------- INFO ------------------------- SUBSCRIBE : <a href="http://bit.ly/1OFtBqm" target="_blank" title="http://bit.ly/1OFtBqm" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://bit.ly/1OFtBqm</a> ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="Pe5YO6f1l2E" data-visibility-tracking="CE0Q3DAYCyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JEDhrta_uoeW9z0="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=Pe5YO6f1l2E" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE0Q3DAYCyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/Pe5YO6f1l2E/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBSfMD2gGXda4Kv7ZxYMZBTy7cTIQ" >
+<span class="video-time" aria-hidden="true">3:41</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Pe5YO6f1l2E"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Pe5YO6f1l2E"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Pe5YO6f1l2E"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="Pe5YO6f1l2E"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=Pe5YO6f1l2E" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE0Q3DAYCyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="[Karaoke] Anh Cứ Đi Đi - Thái Tuyết Trâm FULL BEAT" aria-describedby="description-id-731482" rel="spf-prefetch" dir="ltr">[Karaoke] Anh Cứ Đi Đi - Thái Tuyết Trâm FULL BEAT</a><span class="accessible-description" id="description-id-731482"> - Thời lượng: 3:41.</span></h3><div class="yt-lockup-byline "><a href="/channel/UClZqXLh0J5AKXwuJjgkEylg" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CE0Q3DAYCyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >karake HDkpro</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>198.584 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">2016 Copyright HDkpro <b>Karaoke</b> LH 0989379393 of 01229225434 (Mr.Hải) ☆ OFFICIAL FACEBOOK: ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="Z92Xv7Q_G3w" data-visibility-tracking="CEwQ3DAYDCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JED8tvyh-_fl7mc="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=Z92Xv7Q_G3w" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEwQ3DAYDCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/Z92Xv7Q_G3w/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCHdh_Uh4Cs1UnCnJvYR7opzlfmxA" >
+<span class="video-time" aria-hidden="true">4:29</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Z92Xv7Q_G3w"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Z92Xv7Q_G3w"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Z92Xv7Q_G3w"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="Z92Xv7Q_G3w"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=Z92Xv7Q_G3w" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEwQ3DAYDCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="KARAOKE | Anh Cứ Đi Đi | Hari Won" aria-describedby="description-id-57740" rel="spf-prefetch" dir="ltr">KARAOKE | Anh Cứ Đi Đi | Hari Won</a><span class="accessible-description" id="description-id-57740"> - Thời lượng: 4:29.</span></h3><div class="yt-lockup-byline "><a href="/channel/UC6-iiAvpLENHaflu1FGEctA" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEwQ3DAYDCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >MOC Karaoke</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>5.347 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Tải ứng dụng hát <b>karaoke</b> Yokara: <a href="https://goo.gl/39C8wd" target="_blank" title="https://goo.gl/39C8wd" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/39C8wd</a> ♫ Đăng ký <b>Karaoke</b> Beat Chuẩn: <a href="https://goo.gl/hAVrya" target="_blank" title="https://goo.gl/hAVrya" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/hAVrya</a> ♫ Fanpage ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="J73bBefLX_Q" data-visibility-tracking="CEsQ3DAYDSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JED0v62-3uD23ic="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=J73bBefLX_Q" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEsQ3DAYDSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/J73bBefLX_Q/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDBNkVYuSQCHI7KQt7IJ1gPmgD3VQ" >
+<span class="video-time" aria-hidden="true">5:04</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="J73bBefLX_Q"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="J73bBefLX_Q"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="J73bBefLX_Q"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="J73bBefLX_Q"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=J73bBefLX_Q" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEsQ3DAYDSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Khởi My và bé Bảo Ngọc song ca Anh Cứ Đi Đi quá kool" aria-describedby="description-id-100174" rel="spf-prefetch" dir="ltr">Khởi My và bé Bảo Ngọc song ca Anh Cứ Đi Đi quá kool</a><span class="accessible-description" id="description-id-100174"> - Thời lượng: 5:04.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCYCh0XCb3Qpr93kxqzAnX2g" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEsQ3DAYDSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Feraye Ekici</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>77.502 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Khởi My bé Bảo Ngọc song ca <b>Anh cứ đi đi</b> cực hay,Khởi My và bé Bảo Ngọc 2 dì cháu cực dễ thương. Bé Bảo Ngọc song ca hát ...</div></div></div></div></li>
+
+<li><div class="search-refinements"><h3>Tìm kiếm liên quan đến <b>karaoke anh cu di di</b></h3><div class="search-refinement"><a href="/results?search_query=anh+cu+di+di+remix" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEoQsDoYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh cu di di remix</a></div><div class="search-refinement"><a href="/results?search_query=em+cu+di+di+karaoke+remix" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEAQsDoYCiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >em cu di di karaoke remix</a></div><div class="search-refinement"><a href="/results?search_query=anh+cu+di+di+cover" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEkQsDoYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh cu di di cover</a></div><div class="search-refinement"><a href="/results?search_query=em+cu+di+di+remix" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CD8QsDoYCyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >em cu di di remix</a></div><div class="search-refinement"><a href="/results?search_query=anh+cu+di+di+che" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEgQsDoYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh cu di di che</a></div><div class="search-refinement"><a href="/results?search_query=karaoke+anh+muon+em+song+sao" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CD4QsDoYDCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >karaoke muon em song sao</a></div><div class="search-refinement"><a href="/results?search_query=anh+cu+di+di+tung+son" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEcQsDoYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh cu di di tung son</a></div><div class="search-refinement"><a href="/results?search_query=yeu+khong+hoi+han+karaoke" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CD0QsDoYDSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >yeu khong hoi han karaoke</a></div><div class="search-refinement"><a href="/results?search_query=anh+cu+di+di+giong+ai+giong+ai" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEYQsDoYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >di di giong ai giong ai</a></div><div class="search-refinement"><a href="/results?search_query=karaoke+trai+tim+em+cung+biet+dau" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDwQsDoYDiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >trai tim em cung biet dau</a></div><div class="search-refinement"><a href="/results?search_query=em+cu+di+di" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEUQsDoYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >em cu di di</a></div><div class="search-refinement"><a href="/results?search_query=hari+won" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDsQsDoYDyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >hari won</a></div><div class="search-refinement"><a href="/results?search_query=anh+c%E1%BB%A9+%C4%91i+%C4%91i+rum" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEQQsDoYBiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh cứ đi đi rum</a></div><div class="search-refinement"><a href="/results?search_query=anh+karaoke" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDoQsDoYECITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh karaoke</a></div><div class="search-refinement"><a href="/results?search_query=anh+cu+di+di+lyric" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEMQsDoYByITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh cu di di lyric</a></div><div class="search-refinement"><a href="/results?search_query=lam+sao+de+yeu+karaoke" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDkQsDoYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >lam sao de yeu karaoke</a></div><div class="search-refinement"><a href="/results?search_query=anh+cu+di+di+bb+tran" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEIQsDoYCCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >anh cu di di bb tran</a></div><div class="search-refinement"><a href="/results?search_query=karaoke+yeu+mot+nguoi+vo+tam" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDgQsDoYEiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >yeu mot nguoi vo tam</a></div><div class="search-refinement"><a href="/results?search_query=v%C3%A2ng+anh+%C4%91i+%C4%91i" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEEQsDoYCSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >vâng anh đi đi</a></div><div class="search-refinement"><a href="/results?search_query=huong+dem+bay+xa" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDcQsDoYEyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >huong dem bay xa</a></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="7YfJSxAteiI" data-visibility-tracking="CDUQ3DAYDyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECi9LWBsanyw-0B"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=7YfJSxAteiI" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDUQ3DAYDyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/7YfJSxAteiI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLABm4SD0sNYroWv5KrN9LyIZyylvQ" >
+<span class="video-time" aria-hidden="true">20:20</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="7YfJSxAteiI"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="7YfJSxAteiI"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="7YfJSxAteiI"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="7YfJSxAteiI"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=7YfJSxAteiI" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDUQ3DAYDyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Khởi My hát Nếu Ngày Ấy, Anh Cứ Đi Đi, Người Yêu Cũ, Mưa Rơi Vào Phòng (24/7/2016)" aria-describedby="description-id-379134" rel="spf-prefetch" dir="ltr">Khởi My hát Nếu Ngày Ấy, Anh Cứ Đi Đi, Người Yêu Cũ, Mưa Rơi Vào Phòng (24/7/2016)</a><span class="accessible-description" id="description-id-379134"> - Thời lượng: 20:20.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCpVzQBE1Cr5Zzw1uCx62Q5g" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CDUQ3DAYDyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Vợ Chồng Vin Zoi</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>68.156 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Hãy Subcribre Youtube chanel:<a href="https://www.youtube.com/channel/UCpVzQBE1Cr5Zzw1uCx62" target="_blank" title="https://www.youtube.com/channel/UCpVzQBE1Cr5Zzw1uCx62" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://www.youtube.com/channel/UCpVzQBE1Cr5Zzw1uCx62</a><wbr />Q5g để cập nhật những thông tin ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CDQQuzcYECITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=qty5hEqER2g&amp;list=RDqty5hEqER2g" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDQQuzcYECITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/qty5hEqER2g/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCLGY4p8Q-joR-WPw07A_SyVv-Sxw" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>50+</b> video</span><span class="yt-pl-icon yt-pl-icon-mix yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Phát tất cả</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-list-id="RDqty5hEqER2g" data-video-ids="qty5hEqER2g"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-list-id="RDqty5hEqER2g" data-video-ids="qty5hEqER2g"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=qty5hEqER2g&amp;list=RDqty5hEqER2g" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDQQuzcYECITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Tổng hợp - Anh Cứ Đi Đi - Hari Won (Karaoke)" aria-describedby="description-id-476465" dir="ltr">Tổng hợp - Anh Cứ Đi Đi - Hari Won (Karaoke)</a><span class="accessible-description" id="description-id-476465"> - Danh sách phát</span></h3><div class="yt-lockup-byline ">YouTube</div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length">4:07</span><a href="/watch?v=qty5hEqER2g&amp;list=RDqty5hEqER2g" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDQQuzcYECITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  dir="ltr">Anh Cứ Đi Đi - Hari Won (Karaoke)</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length">5:49</span><a href="/watch?v=6SWHWiTnqBQ&amp;list=RDqty5hEqER2g" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDQQuzcYECITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  dir="ltr">Duyên phận - Karaoke HD || Beat Chuẩn</a></li></ol></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CDMQ2zAYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=KAYOtJ9dwqA&amp;list=PLFX2SPFfiwNaq5O9oprYC8jwC3J5SDRz0" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDMQ2zAYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/KAYOtJ9dwqA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLB6gPngQgWGNLyECs519Edlwvl8Dw" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>12</b> video</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Phát tất cả</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-list-id="PLFX2SPFfiwNaq5O9oprYC8jwC3J5SDRz0" data-video-ids="KAYOtJ9dwqA"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-list-id="PLFX2SPFfiwNaq5O9oprYC8jwC3J5SDRz0" data-video-ids="KAYOtJ9dwqA"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=KAYOtJ9dwqA&amp;list=PLFX2SPFfiwNaq5O9oprYC8jwC3J5SDRz0" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDMQ2zAYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  title="Anh cứ đi đi chế" aria-describedby="description-id-45535" dir="ltr">Anh cứ đi đi chế</a><span class="accessible-description" id="description-id-45535"> - Danh sách phát</span></h3><div class="yt-lockup-byline "><a href="/channel/UCUZSZRZb2jEgYHjilG-2iSA" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CDMQ2zAYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Doremon hát chế</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Đã xác minh"></span></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="3 phút, 58 giây">3:58</span></span><a href="/watch?v=KAYOtJ9dwqA&amp;list=PLFX2SPFfiwNaq5O9oprYC8jwC3J5SDRz0" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDMQ2zAYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  dir="ltr">[Doremon hát chế] - Anh Cứ Đi Đi Chế - Cứ FA Đi - Harimon - Doremon Hát Tiếng Việt</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="2 phút, 22 giây">2:22</span></span><a href="/watch?v=I3XsFBh710c&amp;list=PLFX2SPFfiwNaq5O9oprYC8jwC3J5SDRz0" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDMQ2zAYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"  dir="ltr">Anh Cứ Đi Đi - Hari Won (Cover by Nhật Anh)</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLFX2SPFfiwNaq5O9oprYC8jwC3J5SDRz0" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CDMQ2zAYESITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Xem toàn bộ danh sách phát (12 video)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="8a-Sqs5D9kQ" data-visibility-tracking="CDIQ3DAYEiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JEDE7I_yrNXk1_EB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=8a-Sqs5D9kQ" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDIQ3DAYEiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/8a-Sqs5D9kQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLA6En2ep5c_qjNALamydigE4MIjJg" >
+<span class="video-time" aria-hidden="true">4:37</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="8a-Sqs5D9kQ"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="8a-Sqs5D9kQ"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="8a-Sqs5D9kQ"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="8a-Sqs5D9kQ"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=8a-Sqs5D9kQ" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDIQ3DAYEiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Karaoke Vâng anh đi đi   Bích Phương" aria-describedby="description-id-587131" rel="spf-prefetch" dir="ltr">Karaoke Vâng anh đi đi   Bích Phương</a><span class="accessible-description" id="description-id-587131"> - Thời lượng: 4:37.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCjS1XyFpKfxY06I0A9x-goA" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CDIQ3DAYEiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Tùng Vân</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>210.023 lượt xem</li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="pOxwMvmUoSA" data-visibility-tracking="CDEQ3DAYEyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECgwtLMr4ac9qQB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=pOxwMvmUoSA" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDEQ3DAYEyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/pOxwMvmUoSA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCJYYC4-ohyLdvXjvbjYJcv6o0idw" >
+<span class="video-time" aria-hidden="true">5:52</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="pOxwMvmUoSA"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="pOxwMvmUoSA"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="pOxwMvmUoSA"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="pOxwMvmUoSA"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=pOxwMvmUoSA" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDEQ3DAYEyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="[ Karaoke HD ] Anh Cứ Đi Đi (Remix) - Hari Won Full Beat ✔" aria-describedby="description-id-540658" rel="spf-prefetch" dir="ltr">[ Karaoke HD ] Anh Cứ Đi Đi (Remix) - Hari Won Full Beat ✔</a><span class="accessible-description" id="description-id-540658"> - Thời lượng: 5:52.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCrUDwrh3IBNZ2d-v4_KvgkQ" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CDEQ3DAYEyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Tân Tiến Karaoke</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>26.055 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Song: <b>Anh Cứ Đi Đi</b> Remix - Hari Won • Sáng tác: Vương Tú Anh ☆ OFFICIAL FACEBOOK PAGE: ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="cnR1Yj7NIgE" data-visibility-tracking="CDAQ3DAYFCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JECBxLT2o6ydunI="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=cnR1Yj7NIgE" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDAQ3DAYFCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img alt="" width="246" data-ytimg="1" height="138" src="/yts/img/pixel-vfl3z5WfW.gif" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" data-thumb="https://i.ytimg.com/vi/cnR1Yj7NIgE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBm36ZkQaKhWu_h-xURfc0ROK785g" >
+<span class="video-time" aria-hidden="true">6:00</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="cnR1Yj7NIgE"><span class="addto-watch-queue-menu-text">Phát video tiếp theo</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="cnR1Yj7NIgE"><span class="addto-watch-queue-menu-text">Phát ngay bây giờ</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Xem sau" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="cnR1Yj7NIgE"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Hàng đợi" data-style="tv-queue" data-video-ids="cnR1Yj7NIgE"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=cnR1Yj7NIgE" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDAQ3DAYFCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JFIUa2FyYW9rZSBhbmggY3UgZGkgZGk"  title="Yêu Anh Cứ Để Em - Song Thư (MV)" aria-describedby="description-id-739309" rel="spf-prefetch" dir="ltr">Yêu Anh Cứ Để Em - Song Thư (MV)</a><span class="accessible-description" id="description-id-739309"> - Thời lượng: 6:00.</span></h3><div class="yt-lockup-byline "><a href="/user/ZingMp3Official" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CDAQ3DAYFCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA" >Zing MP3</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Đã xác minh"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 năm trước</li><li>53.613.347 lượt xem</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Music Video: Yêu <b>Anh Cứ</b> Để Em - Song Thư ☞ Subscribe để xem nhiều video hơn ...</div></div></div></div></li>
+</ol>
+</li>
+</ol>
+
+
+  </div>
+
+
+    <div class="branded-page-box search-pager  spf-link ">
+
+
+
+
+
+
+
+
+
+
+
+
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default  vve-check" type="button" onclick=";return false;" disabled="True" aria-label="Chuyển đến trang 1" data-sessionlink="itct=CA4QnKQBGAAiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CA4QnKQBGAAiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-redirect-url="/results?sp=SADqAwA%253D&amp;amp;search_query=karaoke+anh+cu+di+di"><span class="yt-uix-button-content">1</span></button>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?sp=SBTqAwA%253D&amp;search_query=karaoke+anh+cu+di+di" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CA0QnKQBGAEiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CA0QnKQBGAEiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" aria-label="Chuyển đến trang 2"><span class="yt-uix-button-content">2</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?sp=SCjqAwA%253D&amp;search_query=karaoke+anh+cu+di+di" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CAwQnKQBGAIiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CAwQnKQBGAIiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" aria-label="Chuyển đến trang 3"><span class="yt-uix-button-content">3</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?sp=SDzqAwA%253D&amp;search_query=karaoke+anh+cu+di+di" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CAsQnKQBGAMiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CAsQnKQBGAMiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" aria-label="Chuyển đến trang 4"><span class="yt-uix-button-content">4</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?sp=SFDqAwA%253D&amp;search_query=karaoke+anh+cu+di+di" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CAoQnKQBGAQiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CAoQnKQBGAQiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" aria-label="Chuyển đến trang 5"><span class="yt-uix-button-content">5</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?sp=SGTqAwA%253D&amp;search_query=karaoke+anh+cu+di+di" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CAkQnKQBGAUiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CAkQnKQBGAUiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" aria-label="Chuyển đến trang 6"><span class="yt-uix-button-content">6</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?sp=SHjqAwA%253D&amp;search_query=karaoke+anh+cu+di+di" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CAgQnKQBGAYiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CAgQnKQBGAYiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" aria-label="Chuyển đến trang 7"><span class="yt-uix-button-content">7</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?sp=SBTqAwA%253D&amp;search_query=karaoke+anh+cu+di+di" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CAcQnKQBGAciEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" data-visibility-tracking="CAcQnKQBGAciEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" aria-label="Chuyển đến trang 2"><span class="yt-uix-button-content">Tiếp theo »</span></a>
+ </div>
+
+
+  </div>
+
+          </div>
+        </div>
+          <div class="branded-page-v2-secondary-col">
+                <div id="search-secondary-col-contents">
+      
+    </div>
+
+          </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter force-layer"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" id="footer-logo-link" title="Trang chủ YouTube" data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ&amp;ved=CAIQpmEiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ" class="yt-uix-sessionlink"><span class="footer-logo-icon yt-sprite"></span></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-menu-id="arrow-display" data-picker-key="language" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Ngôn ngữ:
+  </span>
+  Tiếng Việt
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-menu-id="arrow-display" data-picker-key="country" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Địa điểm:
+  </span>
+  Việt Nam
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-menu-id="arrow-display" data-picker-key="safetymode" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Chế độ hạn chế:
+  </span>
+Tắt
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+  </ul>
+<a  href="/feed/history" class="yt-uix-button  footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=ygcpWouSJYWm4gKS0oWgDQ"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">Lịch sử</span></a>    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" id="google-help" data-ghelp-tracking-param="" data-ghelp-anchor="google-help" data-load-chat-support="true" data-feedback-product-id="59"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Trợ giúp
+</span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+Đang tải...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+Đang tải...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+Đang tải...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/vi/">Giới thiệu</a></li>
+  <li><a href="//www.youtube.com/yt/press/vi/">Báo chí</a></li>
+  <li><a href="//www.youtube.com/yt/copyright/vi/">Bản quyền</a></li>
+  <li><a href="//www.youtube.com/yt/creators/">Người sáng tạo</a></li>
+  <li><a href="//www.youtube.com/yt/advertise/">Quảng cáo</a></li>
+  <li><a href="//www.youtube.com/yt/dev/vi/">Nhà phát triển</a></li>
+  <li><a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Điều khoản</a></li>
+  <li><a href="https://www.google.com/intl/vi/policies/privacy/">Bảo mật</a></li>
+  <li><a href="//www.youtube.com/yt/policyandsafety/vi/">
+Chính sách và an toàn
+  </a></li>
+  <li><a href="//support.google.com/youtube/?hl=vi" onclick="return yt.www.feedback.start(59);" class="reportbug">Gửi phản hồi</a></li>
+  <li>
+    <a href="/testtube">Kiểm tra các tính năng mới</a>
+  </li>
+  <li></li>
+</ul></div></div></div>
+
+
+      <div class="yt-dialog hid " id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg" role="dialog">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+Đang tải...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+        Đang hoạt động...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+        <div class="yt-dialog-focus-trap" tabindex="0"></div>
+      </div>
+    </div>
+  </div>
+
+
+<div id="hidden-component-template-wrapper" class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a class="sign-in-link" href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=vi&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26next%3D%252Fresults%253Fsearch_query%253Dkaraoke%252Banh%252Bcu%252Bdi%252Bdi%26feature%3Dplaylist%26hl%3Dvi">Đăng nhập</a> để thêm video này vào Xem sau
+
+    </div>
+<div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">  <div class="hide-on-create-pl-panel">
+    <h3>
+Thêm vào
+    </h3>
+  </div>
+  <div class="add-to-widget">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Biểu tượng đang tải"></span>
+
+    <span class="yt-spinner-message">
+        Đang tải danh sách phát...
+    </span>
+  </p>
+
+  </div>
+</div></div>    <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['request-headers'] = {'X-YouTube-Identity-Token': null};ytspf.config['experimental-request-headers'] = ytspf.config['request-headers'];ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 50;ytspf.config['navigate-lifetime'] = 64800000;</script>
+  <script src="/yts/jsbin/spf-vflRfjT3b/spf.js" type="text/javascript" name="spf/spf" ></script>
+  <script src="/yts/jsbin/www-en_US-vflPuEZ8j/base.js"  name="www/base" ></script>
+<script>spf.script.path({'www/': '/yts/jsbin/www-en_US-vflPuEZ8j/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common", "www/channels_accountupload": "www/common", "www/channels": "www/common", "www/dashboard": "www/common", "www/downloadreports": "www/common", "www/experiments": "www/common", "www/feed": "www/common", "www/instant": "www/common", "www/legomap": "www/common", "www/promo_join_network": "www/common", "www/results_harlemshake": "www/common", "www/results": "www/common", "www/results_starwars": "www/common", "www/subscriptionmanager": "www/common", "www/unlimited": "www/common", "www/watch": "www/common", "www/ypc_bootstrap": "www/common", "www/ypc_core": "www/common", "www/channels_edit": "www/channels", "www/live_dashboard": "www/angular_base", "www/videomanager": "www/angular_base", "www/watch_autoplayrenderer": "www/watch", "www/watch_edit": "www/watch", "www/watch_editor": "www/watch", "www/watch_live": "www/watch", "www/watch_promos": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_transcript": "www/watch", "www/watch_videoshelf": "www/watch", "www/ct_advancedsearch": "www/videomanager", "www/my_videos": "www/videomanager"};spf.script.declare(ytdepmap);</script><script >if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>  
+
+  <script>
+        yt.setConfig({
+      'JS_PAGE_MODULES': [
+        'www/results',
+        'www/ypc_bootstrap',
+        'www/feed',
+        ''
+      ],
+
+      'TIMING_REPORT_ON_UNLOAD': true
+    });
+
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "vi_VN",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+  </script>
+  
+<script>yt.setConfig({APIARY_HOST: "",XHR_APIARY_HOST: "youtubei.youtube.com",APIARY_HOST_FIRSTPARTY: "",INNERTUBE_CONTEXT_CLIENT_NAME: 1,INNERTUBE_API_VERSION: "v1",GAPI_HINT_PARAMS: "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.xyDspFFbPYQ.O\/m=__features__\/am=AAI\/rt=j\/d=1\/rs=AHpOoo9vuiyYzl-xmAxJd0moShp71zG1mw",INNERTUBE_CONTEXT_CLIENT_VERSION: "1.20171206",INNERTUBE_API_KEY: "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'VISITOR_DATA': "CgtQbjg0THZyOGFXTQ%3D%3D",'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_LOCALE': "vi_VN",'INNERTUBE_CONTEXT_HL': "vi",'INNERTUBE_CONTEXT_GL': "VN",'XHR_APIARY_HOST': "youtubei.youtube.com"});yt.setConfig({'ROOT_VE_CHILDREN': ["CAEQ7VAiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ","CAIQpmEiEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ","CFkQ_h4iEwiLn42ZyffXAhUFk1gKHRJpAdQo9CQ","CFoQ5isYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CFsQtSwYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CFwQtSwYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CF0QtSwYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CF4Q5isYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CF8QtSwYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGAQtSwYASITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGEQtSwYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGIQtSwYAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGMQtSwYBCITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGQQtSwYBSITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGUQ5isYAiITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGYQtSwYACITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA","CGcQ2C4YAyITCIufjZnJ99cCFQWTWAodEmkB1Cj0JA"],});yt.setConfig({'PAGE_NAME': "results",'LOGGED_IN': false,'SESSION_INDEX': null,'VALID_SESSION_TEMPDATA_DOMAINS': ["www.youtube.com","gaming.youtube.com"],'PARENT_TRACKING_PARAMS': "",'FORMATS_FILE_SIZE_JS': ["%s B","%s KB","%s MB","%s GB","%s TB"],'DELEGATED_SESSION_ID': null,'ONE_PICK_URL': "",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/yts\/jsbin\/www-pageframe-vfleTpYa9\/www-pageframe.js",'GAPI_LOADER_URL': "\/yts\/jsbin\/www-gapi-loader-vflAGe1fV\/www-gapi-loader.js",'JS_COMMON_MODULE': "\/yts\/jsbin\/www-en_US-vflPuEZ8j\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/yts\/cssbin\/www-pageframedelayloaded-vflckbawR.css",'EXPERIMENT_FLAGS': {"cold_load_nav_start_web":true,"log_web_screen_end":true,"web_gel_lact":true,"enable_firefox_push_notifications":true,"live_chat_top_chat_split":0.5,"consent_url_override":"","log_web_meta_interval_ms":0,"debug_forced_promo_id":"","use_watch_fragments2":true,"service_worker_push_force_notification_prompt_tag":"1","botguard_periodic_refresh":true,"web_system_health_fraction":0.01,"enable_playlist_visibility":true,"enable_logging_directives_desktop":true,"autoplay_pause_by_lact_sec":0,"autoescape_tempdata_url":true,"sponsors_whitelist_creator":true,"warm_load_nav_start_web":true,"block_spf_search_ads_impressions":true,"player_external_control_on_classic_desktop":true,"live_chat_message_sampling_method":"","watch_next_pause_autoplay_lact_sec":0,"service_worker_enabled":true,"custom_emoji_creator":true,"live_chat_busyness_sampling_ceil":4.0,"autoplay_pause_sampling_fraction":0.0,"desktop_polymer":true,"service_worker_scope":"\/","live_chat_busyness_enabled":true,"live_chat_busyness_sampling_center":14.0,"enable_more_related_ve_logging":true,"custom_emoji_desktop":true,"gfeedback_for_signed_out_users_enabled":true,"desktop_pyv_on_watch_via_valor":true,"same_domain_static_resources_desktop":true,"web_always_load_chat_support":true,"comment_deep_link":true,"cancel_pending_navs":true,"app_settings_snapshot_is_logging_enabled":true,"interaction_logging_on_gel_web":true,"service_worker_push_logged_out_prompt_watches":-1,"clear_web_implicit_clicktracking":true,"service_worker_push_prompt_cap":-1,"service_worker_push_home_page_prompt":true,"live_chat_top_chat_window_length_sec":5,"service_worker_push_prompt_delay_ms":3888000000,"live_chat_inline_moderation":true,"enable_gaming_new_logo":true,"custom_emoji_main_app":true,"desktop_notification_high_priority_ignore_push":true,"enable_afv_div_reset_in_kevlar":true,"enable_youtubei_innertube":true,"live_chat_top_chat_entry_threshold":0.0,"chat_smoothing_animations":84,"autoplay_pause_by_lact_sampling_fraction":0.0,"remove_web_visibility_batching":true,"live_chat_use_new_default_filter_mode":true,"player_swfcfg_cleanup":true,"log_window_onerror_fraction":0.1,"custom_emoji_legacy":true,"desktop_pyv_on_watch_missing_params":true,"app_settings_snapshot_min_time_between_snapshots_hours":24,"optimistically_create_transport_client":true,"service_worker_push_enabled":true,"use_push_for_desktop_live_chat":true,"live_chat_flagging_reasons":true,"desktop_notification_set_title_bar":true,"service_worker_push_home_only":true,"custom_emoji_super_chat":true,"enable_server_side_search_pyv":true,"desktop_pyv_on_watch_override_lact":true,"player_unified_fullscreen_transitions":true,"live_chat_message_sampling_rate":1.0,"web_logging_max_batch":100,"live_chat_busyness_sampling_steepness":1.0,"live_chat_busyness_sampling_floor":2.0,"live_chat_replay_milliqps_threshold":5000,"youtubei_for_web":true},'HIGH_CONTRAST_MODE_CSS': "\/yts\/cssbin\/www-highcontrastmode-vflDQQZSQ.css",'PREFETCH_CSS_RESOURCES' : ["\/yts\/cssbin\/player-vflRI6WKV\/www-player.css"],'PREFETCH_JS_RESOURCES': ["\/yts\/jsbin\/www-pagead-id-vflEO3hzU\/www-pagead-id.js","\/yts\/jsbin\/player-vflvODUt0\/vi_VN\/base.js"],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 0,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'WATCH_LATER_BUTTON': "\n\n  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" role=\"button\" title=\"Xem sau\" data-button-menu-id=\"shared-addto-watch-later-login\" data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_BUTTON': "  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"Hàng đợi\" data-style=\"tv-queue\" data-video-ids=\"__VIDEO_ID__\"\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_MENU': "  \u003cspan class=\"thumb-menu dark-overflow-action-menu video-actions\"\u003e\n    \u003cbutton aria-expanded=\"false\" onclick=\";return false;\" class=\"yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty\" type=\"button\" aria-haspopup=\"true\" \u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003cul class=\"watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid\"\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item\" data-action=\"play-next\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePhát video tiếp theo\u003c\/span\u003e\u003c\/li\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item\" data-action=\"play-now\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePhát ngay bây giờ\u003c\/span\u003e\u003c\/li\u003e\u003c\/ul\u003e\u003c\/button\u003e\n  \u003c\/span\u003e\n",'SAFETY_MODE_PENDING': false,'I18N_PLURAL_RULES': function(n) { return 'other'; },'ZWIEBACK_PING_URLS': ["https:\/\/www.google.com.vn\/pagead\/lvz?evtid=AK29s6a_1u2JSiOt_Q2vu6Xsa4HNwyAU6oKMn9H-s-kkmzOKiYqAfur8TRmaFZlfU2GvOfZ5Pjj9YPFTdAMeddTy4GSPrNJYoA\u0026pg=results\u0026req_ts=1512638410\u0026sigh=ADUqjjVHfhueEmoPiHvwTSVrady0af6ZuA"],'LOCAL_DATE_TIME_CONFIG': {"formatShortTime":"H:mm","dateFormats":["H:mm  d MMMM, yyyy","d MMMM, yyyy","d MMM, yyyy","d MMM, yyyy"],"shortMonths":["thg 1","thg 2","thg 3","thg 4","thg 5","thg 6","thg 7","thg 8","thg 9","thg 10","thg 11","thg 12"],"firstDayOfWeek":0,"weekdays":["Chủ Nhật","Thứ Hai","Thứ Ba","Thứ Tư","Thứ Năm","Thứ Sáu","Thứ Bảy"],"formatWeekdayShortTime":"EE H:mm","weekendRange":[6,5],"formatLongDateOnly":"d MMMM, yyyy","shortWeekdays":["CN","Th 2","Th 3","Th 4","Th 5","Th 6","Th 7"],"months":["tháng 1","tháng 2","tháng 3","tháng 4","tháng 5","tháng 6","tháng 7","tháng 8","tháng 9","tháng 10","tháng 11","tháng 12"],"formatLongDate":"H:mm  d MMMM, yyyy","formatShortDate":"d MMM, yyyy","firstWeekCutoffDay":3,"amPms":null},'PAGE_CL': 178129155,'PAGE_BUILD_LABEL': "youtube.ytfe.desktop_20171206_0_RC2",'VARIANTS_CHECKSUM': "6faeb481c3b9ac8228a4747ac31a5969",'CLIENT_PROTOCOL': "HTTP\/1.1",'CLIENT_TRANSPORT': "tcp",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Search",'FEEDBACK_LOCALE_LANGUAGE': "vi",'FEEDBACK_LOCALE_EXTRAS': {"accept_language":null,"experiments":"23700014,23700266,23700732,23701213,23701297,23701476,23701698,23701882,23701940,23702018,23702077,23702459,23703090,23703645,23703975,23704466,23704540,23704792,23705057,23705141,23705192,23705240,23705485,23705739,23705866,23706319,23706594,23706596,23706734,23706844,23706846,23707372,23707494,23707877,23708904,23708906,23708910,23708950,23709090,23709328,23709424,23709439,23709486,23709532,23709548,23709611,23709766,23709789,23709896,23709898,23709902,23709985,23710313,23710536,23710560,23710566,23710625,23710642,23710863,23710964,23711027,23711202,23711678,23711680,23711860,23711894,23711918,23712087,23712746,23713095,23713315,23713427,23713478,23713532,23713594,23713711,23713813,23713828,23713873,23713909,23713964,23714082,23714230,23714285,23714300,23714338,23714471,23714901,23715301,23715460,23715554,23715612,23715855,23716067,23716096,23716111,23716540,23716688,23716712,23716811,23716876,9415398,9419979,9420289,9422596,9431754,9432939,9438309,9440054,9441194,9442387,9442746,9448302,9449243,9451814,9453167,9453409,9456445,9457114,9457169,9459792,9459801,9460350,9460554,9460829,9460959,9463460,9463594,9463936,9463963,9465513,9466835,9467471,9467508,9467510,9467512,9467795,9467806,9467820,9467822,9468195,9469934,9470791,9471103,9471239,9471264,9471536,9471955,9472157,9472191,9473373,9473384,9473401,9473475,9473977,9474396,9474594,9475218,9475460,9476077,9476327,9476739,9477419,9477629,9478787,9479200,9479354,9479456,9479750,9479827,9480071,9480312,9480371,9480475,9480550,9481220,9481501,9482973,9482998,9483190,9483245,9483583,9483865,9484088,9484237,9484344,9485000,9486160,9486390,9486443,9487037,9487329,9487434,9487454,9487458,9487498,9487532,9487777,9488038,9488257,9488272,9488552,9488978,9488991,9488995,9489074,9489224,9489266,9489277,9489331,9489336,9489700,9489831,9489833","logged_in":false}});   yt.setConfig({
+    'GUIDED_HELP_LOCALE': "vi_VN",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Tạo danh sách phát mới\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (tạo mới)\n",'ADDTO_WATCH_LATER': "Watch later",'ADDTO_WATCH_LATER_ADDED': "Đã thêm",'ADDTO_WATCH_LATER_ERROR': "Lỗi",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Đã thêm",'ADDTO_WATCH_QUEUE_ERROR': "Lỗi",'ADDTO_TV_QUEUE': "Queue",'ADS_INSTREAM_FIRST_PLAY': "Quảng cáo video đang phát.",'ADS_INSTREAM_SKIPPABLE': "Quảng cáo video có thể bỏ qua.",'ADS_OVERLAY_IMPRESSION': "Quảng cáo hiển thị.",'MASTHEAD_NOTIFICATIONS_LABEL': {"other": "# th\u00f4ng b\u00e1o ch\u01b0a \u0111\u1ecdc.", "case1": "1 th\u00f4ng b\u00e1o ch\u01b0a \u0111\u1ecdc.", "case0": "0 th\u00f4ng b\u00e1o ch\u01b0a \u0111\u1ecdc."},'MASTHEAD_NOTIFICATIONS_COUNT_99PLUS': "99+",'MDX_AUTOPLAY_OFF': 'Tự động phát bị tắt','MDX_AUTOPLAY_ON': 'Tự động phát bật'});  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/yts\/cssbin\/www-feedprivacydialog-vfls3IuHV.css");
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/yts\/jsbin\/www-searchbox-legacy-vflErMWJI\/www-searchbox-legacy.js",'SBOX_SETTINGS': {"REQUEST_DOMAIN":"vn","PQ":"karaoke anh cu di di","SUGG_EXP_ID":"","IS_FUSION":false,"PSUGGEST_TOKEN":null,"HAS_ON_SCREEN_KEYBOARD":true,"REQUEST_LANGUAGE":"vi","SESSION_INDEX":null},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL":"Đề xuất bị loại bỏ","SUGGESTION_DISMISS_LABEL":"Xóa"}});  yt.setConfig({
+    'YPC_LOADER_JS': "\/yts\/jsbin\/www-ypc-vflCLLY6e\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/yts\/cssbin\/www-ypc-vflefIpDD.css",
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=vi\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26next%3D%252F%26hl%3Dvi",
+    'DBLCLK_ADVERTISER_ID': "2542116",
+    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",
+    'SUBSCRIPTION_URL': "\/subscription_ajax",
+    'YPC_SWITCH_URL': "\/signin?action_handle_signin=true\u0026next=%2F\u0026feature=purchases\u0026skip_identity_prompt=True",
+    'YPC_GB_LANGUAGE': "vi_VN",
+    'YPC_MB_URL': "https:\/\/payments.youtube.com\/payments\/v4\/js\/integrator.js?ss=md",
+    'YPC_TRANSACTION_URL': "\/transaction_handler",
+    'YPC_SUBSCRIPTION_URL': "\/ypc_subscription_ajax",
+    'YPC_POST_PURCHASE_URL': "\/ypc_post_purchase_ajax",
+    'YTR_FAMILY_CREATION_URL': "https:\/\/families.google.com\/webcreation?usegapi=1",
+    'YTO_GTM_DATA': {'event': 'purchased', 'purchaseStatus': 'success'},
+    'YTO_GTM_1_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '1'},
+    'YTO_GTM_2_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '2'}
+  });
+  yt.setMsg({
+    'YPC_OFFER_OVERLAY': "  \n",
+    'YPC_UNSUBSCRIBE_OVERLAY': "  \n"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "search_results");
+ytcsi.info('st', 633);ytcfg.set({"TIMING_INFO":{"yt_lt":"cold","c":"WEB","GetSearch_rid":"0x3fa596aa9ac7c442","yt_li":"0","cver":"1.20171206","yt_ad":"1"},"CSI_SERVICE_NAME":"youtube"});;ytcfg.set({"TIMING_ACTION":"results","TIMING_AFT_KEYS":["ol"],"TIMING_WAIT":["ol","cpt"],"CSI_VIEWPORT":true});;  yt.setConfig({
+      'XSRF_TOKEN': "QUFFLUhqbHYyOGN3ZDl4MDdWc2tYYlVPUnFkM3YtWGhTQXxBQ3Jtc0tsVVl6Y3lxcGxkbXAzVmllN24yLXF3RXkxS0k5RG5JM2p5eGlXQlJqbWpzd0ZzV2trTkdzaWFUa25fY0gyaW5sR3JqbGtFVG5US3l1aWl3LW9KZjRUMkRVZ0ZGZTlaTXoxeGR2SzBUNzdwMnF5RE9LbGt6SHVieUZtSXJINDV6U3dWY0x2cWRzTHNtOUlGSVpmdnRGeTN0dmVsVXc=",
+      'XSRF_FIELD_NAME': "session_token",
+
+      'XSRF_REDIRECT_TOKEN': "3OoL5DkoAG6ybBj91e4pwp-L_0p8MTUxMjcyNDgxMUAxNTEyNjM4NDEx"  });
+yt.setConfig('ID_TOKEN', null);window.ytcfg.set('SERVICE_WORKER_KILLSWITCH', false);  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+</body></html>
+
